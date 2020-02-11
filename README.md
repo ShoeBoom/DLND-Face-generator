@@ -1,1 +1,1 @@
-# DLND-Face-generator
+# Face-generator
